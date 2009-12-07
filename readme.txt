@@ -6,17 +6,15 @@ Tested up to: 2.8.5
 Stable tag: 1.0
 
 
-Download, instalare:
+Instalare
 
-**Instalare**
+* Dezarhiveaza fisierul sociable.zip. 
+* Uploadeaza folderul sociable, nu fisierele continute de acesta in folderul `wp-contents/plugins` al blogului tau.
 
-1. Dezarhiveaza fisierul sociable.zip. 
-1. Uploadeaza folderul sociable, nu fisierele continute de acesta in folderul `wp-contents/plugins` al blogului tau.
+Activare
 
-**Activare**
-
-1. Activeaza pluginul in submeniul Plugins
-1. In meniul Settings va aparea o noua pagina de administrare numita Sociable .ro.
+* Activeaza pluginul in submeniul Plugins
+* In meniul Settings va aparea o noua pagina de administrare numita Sociable .ro.
 
 
 Pentru suport, cereri de adaugare a noi agregatoare, etc. folositi adresa de mail paun.eugen@gmail.com
